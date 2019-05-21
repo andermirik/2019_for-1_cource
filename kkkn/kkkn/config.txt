@@ -1,0 +1,8 @@
+data/language/english.txt
+Data/Language/english.txt
+Data/Files/ru_readme.txt
+Data/Files/ru_aboutme.txt
+Data/Files/ru_apoutprog.txt
+Data/Files/en_readme.txt
+Data/Files/en_aboutme.txt
+Data/Files/en_apoutprog.txt

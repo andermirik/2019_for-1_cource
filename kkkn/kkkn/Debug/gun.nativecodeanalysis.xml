@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\detroitlen\source\repos\kkkn\kkkn</FILEPATH>
+      <FILENAME>gun.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Gun::Number' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Gun::{ctor}</FUNCTION>
+    <DECORATED>??0Gun@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\detroitlen\source\repos\kkkn\kkkn</FILEPATH>
+      <FILENAME>gun.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Gun::State' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Gun::{ctor}</FUNCTION>
+    <DECORATED>??0Gun@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

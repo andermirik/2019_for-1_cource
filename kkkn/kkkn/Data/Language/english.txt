@@ -1,0 +1,97 @@
+                            The Ministry of education and science of the DPR
+                            Donetsk national technical University
+
+
+
+										   the faculty of CST
+
+										     Department of PI
+
+			               Course project  
+		        on discipline: Object-oriented programming
+		        on subject: weapon shop
+
+
+
+Performed: checked:									   checked:
+art. gr. PI-18A 								 	   Schedrin S.V
+Baliaba Y. V									           Nogtev E. A 
+											  
+
+
+
+					Donetsk 2019.
+
+
+
+Current language: English
+Выбрать другой: 1
+next: 2
+
+Languages list:
+Russian: 1
+English: 2
+
+Menu:
+1.Load
+2.Save
+3.Сменить язык
+4.File readme
+5.File "about me"
+6.File "about program"
+7.Shop
+
+Loading...
+
+Done.
+
+Магазин:
+1.buy Weapon
+2.buy Gun
+3.buy Grenade
+4.buy Colored Gun
+5.test last buyed item
+6.sell selected
+7.check inventory
+8.calculate count objects
+
+testing...
+testing ended.
+
+inventory clear
+
+count bullets:
+charged
+uncharged
+
+fused
+shot
+fused
+
+pulled out check
+inserted check
+
+enter number:
+Count Weapons
+Count Guns
+Count Grenades
+Count Colored Guns
+
+0.Change config
+
+имя:
+Config:
+path to file:
+1: with russian locale
+2: with english locale
+3: russian readme
+4: russian aboutme
+5: russian aboutprog
+6: english readme
+7: english aboutme
+8: english aboutprog
+
+d: done
+с: сменить язык
+s: save config
+имя:
